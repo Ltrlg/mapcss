@@ -1,0 +1,8 @@
+relation[boundary=administrative][admin_level=8] > way::core_boundary
+{
+    z-index: 2;
+    modifier: false;
+    width: 10;
+    color: #FF0000;
+    dashes: 20,10;
+}
